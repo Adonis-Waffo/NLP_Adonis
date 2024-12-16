@@ -1,2 +1,2 @@
-# NLP_Adonis
-My NLP Project
+# AI_Adonis
+My AI Project
